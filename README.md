@@ -10,10 +10,10 @@ $ pkg install git
 
 $ pip2 install request
 
-$ git clone https://github.com/ROMI-AFRZL/vibotkom 
+$ git clone https://github.com/IWAN-404/bot
 
-$ cd vibotkom
+$ cd bot
 
 $ ls
 
-$ python2 vibot.py
+$ python2 botkomen.py
