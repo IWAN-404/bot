@@ -17,3 +17,5 @@ $ cd bot
 $ ls
 
 $ python2 botkomen.py
+
+SC BOT KOMEN LOGIN VIA COOKIES TOD
